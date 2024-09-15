@@ -8,6 +8,11 @@
 export.cfg
 export_presets.cfg
 
+# Scons-specific ignores
+.sconsign.dblite
+config.log
+.sconf_temp
+
 # Imported translations (automatically generated from CSV files)
 *.translation
 
